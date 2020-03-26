@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Elder Helper
 
-You can use the [editor on GitHub](https://github.com/ssurti6199/elderhelper/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### What is Elder Helper?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Elder Helper is an online service determined to help you stay connected to your family. What better way than to teach you how to use the tools to do so. We teach how to use Facetime, Facebook, Zoom, and other platforms to keep you connected with your loved ones in these trying times.
 
 ### Markdown
 
