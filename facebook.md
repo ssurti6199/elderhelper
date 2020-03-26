@@ -1,6 +1,1 @@
-layout: page
-title: "FaceBook"
-permalink: /facebook
-
-
-This is a test message.
+Welcome to the FaceBook page!
