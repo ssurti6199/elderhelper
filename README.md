@@ -2,36 +2,9 @@
 
 ### What is Elder Helper?
 
-Elder Helper is an online service determined to help you stay connected to your family. What better way than to teach you how to use the tools to do so. We teach how to use Facetime, Facebook, Zoom, and other platforms to keep you connected with your loved ones in these trying times.
+Elder Helper is an online service determined to help you stay connected to your family. What better way than to teach you how to use the tools to do so. We teach how to use Facetime, Facebook, WhatsApp, and other platforms to keep you connected with your loved ones in these trying times.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ssurti6199/elderhelper/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Why use us?
+We have step by step instructions to help you learn at your own pace.
+Not into that? We also provide videos to help you in a more visual way.
+And if that is not enough, you can contact us and we will help you learn by walking you through the steps.
