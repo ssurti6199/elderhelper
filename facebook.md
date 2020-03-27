@@ -1,3 +1,3 @@
-# Welcome to the FaceBook page!
-## Basics:
+Welcome to the FaceBook page!
+Basics:
 
