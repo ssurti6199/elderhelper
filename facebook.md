@@ -1,6 +1,3 @@
----
-layout: default
---- 
 # Welcome to the Facebook Page
 
 ## Step By Step Instructions
