@@ -14,3 +14,4 @@ After you sign up it is important to change you settings to control who is allow
 2. Click "Settings".
 3. In the left bar, select "Privacy".
 4. Set "Who Can See Your Future Posts" to Friends if it is not set to it already.
+hi this is shriya
