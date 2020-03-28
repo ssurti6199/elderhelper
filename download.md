@@ -1,6 +1,9 @@
 # Welcome to the Downloading Apps page!
 
 ## Step by Step Instructions:
+Downloading apps allows you to access a whole word of applications. Downloading apps that help you communicate with those around you is easy, and we'll take you through the process step by step!
+
+These videos include directions on how to enable and use FaceTime on your Apple device. Special thanks to TechBoomers for making the video tutorials on ElderHelper possible!
 
 ![download](https://user-images.githubusercontent.com/62727019/77828135-abc82b80-70e7-11ea-9896-5e639e5dcc04.jpg)
 ### If you have an Apple Phone:
