@@ -1,9 +1,9 @@
 # Welcome to the Facebook Page
 
-## For a Video Walk Through...
+## How To Use Facebook: Video Tutorial
 [How To Use Facebook](https://www.youtube.com/watch?v=fGcHOcj1SQA&feature=emb_rel_end) by [TechBoomers](https://techboomers.com/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
-## Step By Step Instructions
+## How To Use Facebook: Step By Step Instructions
 
 ### Signing Up/Logging In
 1. Go to facebook.com
