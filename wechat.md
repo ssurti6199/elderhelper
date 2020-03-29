@@ -12,7 +12,7 @@
 1. Click Start
 2. Play the puzzle game by dragging the blue scroller!
 3. Contact a WeChat user who:
-   a. signed up for WeChat over 1 month ago (6 months if they're a China Mainland user)
+   1. signed up for WeChat over 1 month ago (6 months if they're a China Mainland user)
    b. hasn't completed "Help Friend Register" for other users in the past month
    c. hasn't been blocked in the past month
    (d. has activated WeChat pay if they're a China Mainland user)
