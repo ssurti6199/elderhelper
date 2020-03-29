@@ -9,14 +9,15 @@
 ### Security Verifiction:
 1. Click Start
 2. Play the puzzle game by dragging the blue scroller!
-![IMG_9411](https://user-images.githubusercontent.com/62730453/77861760-997be980-71dc-11ea-92d9-a7e8f8bf49bb.png)
-
 3. Contact a WeChat user who:
    1. signed up for WeChat over 1 month ago (6 months if they're a China Mainland user)
    2. hasn't completed "Help Friend Register" for other users in the past month
    3. hasn't been blocked in the past month
    4. (has activated WeChat pay if they're a China Mainland user)
 4. Have them scan the QR code (black and white patterned square) on your screen with their WeChat "scan" feature.
+
+![IMG_9411](https://user-images.githubusercontent.com/62730453/77861760-997be980-71dc-11ea-92d9-a7e8f8bf49bb.png)
+
 5. Have them click "okay" when "Help Friend Register" pops up.![IMG_1204](https://user-images.githubusercontent.com/62730453/77861596-7866c900-71db-11ea-9bf5-7f1bbc6e0209.png)
 
 *While they are doing this, be careful not to cancel your registration. They can only help verify you once. If you cancel the registration later in the process, they will not be able to re-verify you that day.
