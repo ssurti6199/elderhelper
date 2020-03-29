@@ -17,7 +17,7 @@
    4. (has activated WeChat pay if they're a China Mainland user)
 4. Have them scan the QR code (black and white patterned square) on your screen with their WeChat "scan" feature.
 
-![IMG_9411](https://user-images.githubusercontent.com/62730453/77861760-997be980-71dc-11ea-92d9-a7e8f8bf49bb.png)
+[IMG_9411](https://user-images.githubusercontent.com/62730453/77861760-997be980-71dc-11ea-92d9-a7e8f8bf49bb.png)
 
 5. Have them click "okay" when "Help Friend Register" pops up.![IMG_1204](https://user-images.githubusercontent.com/62730453/77861596-7866c900-71db-11ea-9bf5-7f1bbc6e0209.png)
 
