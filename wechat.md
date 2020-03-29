@@ -18,4 +18,6 @@
    (d. has activated WeChat pay if they're a China Mainland user)
 4. Have them scan the QR code (black and white patterned square) on your screen with their WeChat "scan" feature.
 5. Have them click "okay" when "Help Friend Register" pops up.
-6. 
+6. After the green bar loads, their screen will say "Assistant Registration Successful". Your screen should now say "Verification Successful". Click "Back to Sign Up".
+7. A verification code will be sent to the mobile number you filled out earlier. Type this six digit code where it says "Code" underneath the mobile number.
+
