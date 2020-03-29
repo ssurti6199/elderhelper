@@ -19,7 +19,7 @@
 
 *While they are doing this, be careful not to cancel your registration. They can only help verify you once. If you cancel the registration later in the process, they will not be able to re-verify you that day.
 
-6. After the green bar loads, their screen will say "Assistant Registration Successful". Your screen should now say "Verification Successful". Click "Back to Sign Up".
+6. After the green bar loads, their screen will say "Assistant Registration Successful".https://github.com/ssurti6199/elderhelper/issues/newYour screen should now say "Verification Successful". Click "Back to Sign Up".
 7. A verification code will be sent to the mobile number you filled out earlier. Enter the six digit code where it says "Code" underneath the mobile number.
 8. Once your phone number is verified, your account will be set to go!
 
