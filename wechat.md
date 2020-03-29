@@ -17,7 +17,29 @@
    c. hasn't been blocked in the past month
    (d. has activated WeChat pay if they're a China Mainland user)
 4. Have them scan the QR code (black and white patterned square) on your screen with their WeChat "scan" feature.
-5. Have them click "okay" when "Help Friend Register" pops up.
-6. After the green bar loads, their screen will say "Assistant Registration Successful". Your screen should now say "Verification Successful". Click "Back to Sign Up".
-7. A verification code will be sent to the mobile number you filled out earlier. Type this six digit code where it says "Code" underneath the mobile number.
+5. Have them click "okay" when "Help Friend Register" pops up. 
+*While they are doing this, be careful not to cancel your registration. They can only help verify you once. If you cancel the registration later in the process, they will not be able to re-verify you that day.
 
+6. After the green bar loads, their screen will say "Assistant Registration Successful". Your screen should now say "Verification Successful". Click "Back to Sign Up".
+7. A verification code will be sent to the mobile number you filled out earlier. Enter the six digit code where it says "Code" underneath the mobile number.
+8. Once your phone number is verified, your account will be set to go!
+
+## Adding Friends
+### Contacts
+If you sync your contacts, WeChat will automatically show you which of your contacts already has WeChat.
+1. Within the Contacts tab, click "New Friends" or the face and plus symbol in the top right corner.
+2. Click "Add Contacts" in the top right corner. WeChat gives you 7+ ways to add friends!
+   a. Search their WeChat ID or phone number in the top search bar
+   b. Invite friends who don't have WeChat thru email or messaging
+   c. Join a private group with friends nearby.
+   d. Scan a friend's QR code (to find your own QR code, refer to below)
+   e. Add from your existing mobile contacts (who already have WeChat)
+ To find other types of accounts:
+   f. follow Official Accounts (businesses, schools, celebrities, etc)
+   g. find "Work Contacts" by searching their mobile number
+   
+Contacts are automatically sorted by alphabetical. Scroll down or hop around with the tiny vertical letters on the right hand side.
+You can also tag contacts together to create folders (Ex: family, work, school, etc)
+Group chats are grouped into the "Group Chat" tab within the Contacts page.
+   
+### 
