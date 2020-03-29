@@ -9,6 +9,8 @@
 ### Security Verifiction:
 1. Click Start
 2. Play the puzzle game by dragging the blue scroller!
+![IMG_9411](https://user-images.githubusercontent.com/62730453/77861760-997be980-71dc-11ea-92d9-a7e8f8bf49bb.png)
+
 3. Contact a WeChat user who:
    1. signed up for WeChat over 1 month ago (6 months if they're a China Mainland user)
    2. hasn't completed "Help Friend Register" for other users in the past month
