@@ -82,6 +82,7 @@ D. change notifications and chat alerts
 1. Moments: see what other people post (similar to Facebook, or Instagram posts). You can like or comment.
 Use scan, shake, search, or people nearby to find new friends, businesses, news, topics, etc.
 2. Mini Programs: download separate programs (like having a mini App Store inside your app!) Access these by swiping down while in the Chats tab.
+![6EEE6D5C-EF23-44BC-9EB3-8B8AADAFF81A](https://user-images.githubusercontent.com/62730453/77861961-f62bd400-71dd-11ea-8f09-6df8ad3ff749.png)
 3. WeChat Out: can call your mobile contacts (they don't have to have WeChat) internationally at low to no rates! Good option for international travel when you don't have a plan.
 
 ## Me
