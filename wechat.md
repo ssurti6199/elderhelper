@@ -1,7 +1,5 @@
 # Welcome to the WeChat page!
 
-## How to Use WeChat: Video Tutorials
-[How To Create A WeChat Account](https://youtu.be/goBt6IjZMhs) by [TechBoomers](https://techboomers.com/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## Step by Step Instructions: Setting Up Your Account
 1. Download the app
