@@ -50,8 +50,34 @@ Discover tab:
 4. People Nearby: shows you anyone within a couple miles.
 
 ## Chats
-Click the plus-circle symbol in the top right
+Click the plus-circle symbol in the top right to:
 1. create a new chat (select a contact or group)
+2. add contacts
+3. scan a QR code
+4. use money/WeChat pay (you can enable Quick Pay as well)
+
+Scroll to find chats or search in the top bar.
+### Ways to Chat
+1. Type  normally
+2. Send emojis or animated stickers (millions of free packs you can download! The sticker quality is much better than iMessage, and they're always free!)
+3. Send voice recordings by holding down on the speaker symbol on the left, then talk normally into your device.
+4. Click on the plus-circle on the right to send photos, locations, money (Red Packet), files, contacts, etc.
+5. Voice or video call
+
+### Settings within Chats (three dots in top right corner)
+A. Add or remove contacts within a chat.
+B. Search chat history for dates, links, music, files, keywords, etc
+C. Give a distinct background for each chat! Use free wallpapers or a custom photo.
+D. change notifications and chat alerts
+
+
 
 ## Discover
-Moments: 
+Moments: see what other people post (similar to Facebook, or Instagram posts). You can like or comment.
+Use scan, shake, search, or people nearby to find new friends, businesses, news, topics, etc.
+Mini Programs: download separate programs (like having a mini App Store inside your app!) Access these by swiping down while in the Chats tab.
+WeChat Out: can call your mobile contacts (they don't have to have WeChat) internationally at low to no rates! Good option for international travel when you don't have a plan.
+
+## Me
+
+
