@@ -73,11 +73,20 @@ D. change notifications and chat alerts
 
 
 ## Discover
-Moments: see what other people post (similar to Facebook, or Instagram posts). You can like or comment.
+1. Moments: see what other people post (similar to Facebook, or Instagram posts). You can like or comment.
 Use scan, shake, search, or people nearby to find new friends, businesses, news, topics, etc.
-Mini Programs: download separate programs (like having a mini App Store inside your app!) Access these by swiping down while in the Chats tab.
-WeChat Out: can call your mobile contacts (they don't have to have WeChat) internationally at low to no rates! Good option for international travel when you don't have a plan.
+2. Mini Programs: download separate programs (like having a mini App Store inside your app!) Access these by swiping down while in the Chats tab.
+3. WeChat Out: can call your mobile contacts (they don't have to have WeChat) internationally at low to no rates! Good option for international travel when you don't have a plan.
 
 ## Me
-
+1. Profile: change your profile photo, name, find your WeChat ID, QR code, and other personal information
+2. WeChat Pay: After storing money on your account, pay people or business, donate to charity, pay utilitiies or public services, all through WeChat (primary form of payment in Mainland China for smaller transactions)
+3. Favorites: find the favorites you've saved from chats/groups/moments/etc. Large files expire in WeChat after time, so save anything you might need in the future by adding it to your favorites. 
+4. My Posts: shows your Moments and Time Capsules
+5: Sticker Gallery: download thousands of free animated stickers!
+6: Settings
+   1. Account security (password, voiceprint- login via your voice, add emergency contacts, manage devices you use WeChat on, etc)
+   2. Message Notifications
+   3. Privacy (change methods for friending me, block people, hide posts, etc)
+   4. General (language, text size, background, stickers, photos/videos/files, speaker, backup, storage, Manage Discover, WeChat Tools)
 
