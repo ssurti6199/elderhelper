@@ -4,7 +4,7 @@
 ## Step by Step Instructions: Setting Up Your Account
 1. Download the app
 2. Enter your full name, select your region, enter your mobile number (check the area code on the left), and create a secure password. Check the agreement statement at the bottom of the screen, then click next!
-3. Privacy Policy will pop up. Click the "I have read and accept the above terms" so a green check mark appears. Click net.
+3. Privacy Policy will pop up. Click the "I have read and accept the above terms" so a green check mark appears. Click next.
 
 ### Security Verifiction:
 1. Click Start
