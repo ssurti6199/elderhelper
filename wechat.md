@@ -27,7 +27,7 @@
 
 6. After the green bar loads, their screen will say "Assistant Registration Successful".
 
-![IMG_1205](https://user-images.githubusercontent.com/62730453/77861644-bbc13780-71db-11ea-9aec-7cb019a3795e.png = 100x200)
+![IMG_1205](https://user-images.githubusercontent.com/62730453/77861644-bbc13780-71db-11ea-9aec-7cb019a3795e.png =100x200)
 
 Your screen should now say "Verification Successful". Click "Back to Sign Up".
 7. A verification code will be sent to the mobile number you filled out earlier. Enter the six digit code where it says "Code" underneath the mobile number.
