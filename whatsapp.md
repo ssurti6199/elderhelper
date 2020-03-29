@@ -1,7 +1,7 @@
 # Welcome to the WhatsApp Page
 
 ## How To Use WhatsApp: Video Tutorial
-[How To Use Facebook](https://youtu.be/KMpM0BPkDcs) by [TechBoomers](https://techboomers.com/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+[How To Use WhatsApp](https://youtu.be/KMpM0BPkDcs) by [TechBoomers](https://techboomers.com/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## How To Use WhatsApp: Step By Step Instructions
 
