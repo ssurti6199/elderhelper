@@ -16,19 +16,11 @@
    3. hasn't been blocked in the past month
    4. (has activated WeChat pay if they're a China Mainland user)
 4. Have them scan the QR code (black and white patterned square) on your screen with their WeChat "scan" feature.
-
-![IMG_9411](https://user-images.githubusercontent.com/62730453/77861760-997be980-71dc-11ea-92d9-a7e8f8bf49bb.png)
-
 5. Have them click "okay" when "Help Friend Register" pops up.
-
-![IMG_1204](https://user-images.githubusercontent.com/62730453/77861596-7866c900-71db-11ea-9bf5-7f1bbc6e0209.png)
 
 *While they are doing this, be careful not to cancel your registration. They can only help verify you once. If you cancel the registration later in the process, they will not be able to re-verify you that day.
 
 6. After the green bar loads, their screen will say "Assistant Registration Successful".
-
-![IMG_1205](https://user-images.githubusercontent.com/62730453/77861644-bbc13780-71db-11ea-9aec-7cb019a3795e.png)
-
 Your screen should now say "Verification Successful". Click "Back to Sign Up".
 7. A verification code will be sent to the mobile number you filled out earlier. Enter the six digit code where it says "Code" underneath the mobile number.
 8. Once your phone number is verified, your account will be set to go!
@@ -85,7 +77,6 @@ D. change notifications and chat alerts
 1. Moments: see what other people post (similar to Facebook, or Instagram posts). You can like or comment.
 Use scan, shake, search, or people nearby to find new friends, businesses, news, topics, etc.
 2. Mini Programs: download separate programs (like having a mini App Store inside your app!) Access these by swiping down while in the Chats tab.
-![6EEE6D5C-EF23-44BC-9EB3-8B8AADAFF81A](https://user-images.githubusercontent.com/62730453/77861961-f62bd400-71dd-11ea-8f09-6df8ad3ff749.png)
 3. WeChat Out: can call your mobile contacts (they don't have to have WeChat) internationally at low to no rates! Good option for international travel when you don't have a plan.
 
 ## Me
