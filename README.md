@@ -1,4 +1,4 @@
-## What is Elder Helper?
+## Welcome to Elder Helper!
 
 Elder Helper is an online service determined to help you stay connected to your family. What better way than to teach you how to use the tools to do so. We teach how to use Facetime, Facebook, WhatsApp, and other platforms to keep you connected with your loved ones in these trying times.
 
