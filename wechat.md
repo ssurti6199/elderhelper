@@ -91,3 +91,5 @@ Use scan, shake, search, or people nearby to find new friends, businesses, news,
    3. Privacy (change methods for friending me, block people, hide posts, etc)
    4. General (language, text size, background, stickers, photos/videos/files, speaker, backup, storage, Manage Discover, WeChat Tools)
 
+### For more information click the video at the top of the screen or contact us with further questions.
+
