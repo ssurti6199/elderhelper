@@ -20,3 +20,6 @@ Note:If you would like a video tutorial, this video by eHowTech will be helpful-
 2. If you are looking for a specific app, go to the search section on the top right of the screen and type in the name of your desired app. If you want to search by category, swipe left.
 3. Click on the app and select accept & download. 
 4. Wait for your app to be installed :)
+
+### For more information click the video at the top of the screen or contact us with further questions.
+
