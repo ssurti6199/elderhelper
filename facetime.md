@@ -41,3 +41,6 @@ If you are struggling to use the FaceTime app itself, you can also use FaceTime 
 1. Find the Contacts app on your device, and tap on it to open it.
 2. At the top of your screen, tap the search bar and search the name of the family member that you would like to contact. When their name appears, tap on it to open their contact information.
 3. Tap the video camera icon to begin a FaceTime call. 
+
+### For more information click the video at the top of the screen or contact us with further questions.
+
