@@ -21,5 +21,5 @@ Note:If you would like a video tutorial, this video by eHowTech will be helpful-
 3. Click on the app and select accept & download. 
 4. Wait for your app to be installed :)
 
-### For more information click the video at the top of the screen or contact us with further questions.
+### For more information click the video at the middle of the screen or contact us with further questions.
 
